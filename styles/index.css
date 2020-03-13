@@ -1,0 +1,244 @@
+
+/* FONTS */
+
+@font-face {
+    font-family: 'Droid';
+    src: url('../fonts/DroidFonts/DroidSans.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Droid';
+    src: url('../fonts/DroidFonts/DroidSans-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'DroidMono';
+    src: url('../fonts/DroidFonts/DroidSansMono.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+/* Links and anchors */
+
+a {
+	color: #FF6C7E;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+a:hover {
+	color: #FF6C7E;
+	border-bottom: 1px solid;
+}
+
+.anchor:hover {
+	border-bottom: 1px dashed;
+}
+
+
+/* Main layout */
+
+div {
+	box-sizing: border-box;
+}
+
+html, body {
+	background: #D8D8D8;
+	padding: 0;
+	margin: 0;
+	font-family: "Droid", sans-serif;
+}
+
+body {
+	position: relative;
+	min-width: 320px;
+}
+
+.main {
+	width: 1000px;
+	margin: 0 auto;
+}
+
+.wrapper {
+	background: #F8F8F8;
+}
+
+.footer {
+	background: #D8D8D8;
+	height: 100px;
+}
+
+.main, .footer {
+	overflow: hidden;
+}
+
+
+
+/* Layout of main block */
+
+.description {
+	padding: 80px 0;
+}
+
+.overview {
+	width: 40%;
+	float: left;
+}
+
+.screens {
+	width: 60%;
+	float: right;
+	text-align: right;
+	padding-right: 20px;
+	padding-top: 40px;
+}
+
+.screens img {
+	width: 250px;
+	margin-left: 20px;
+}
+
+
+/* Footer */
+
+.footer {
+	clear: both;
+	text-align: center;
+	padding-top: 40px;
+	box-sizing: border-box;
+	color: #868686;
+}
+
+
+/* Styling of main block elements */
+
+.main {
+	color: #222;
+	font-size: 12pt;
+}
+
+.main .logo img {
+	max-width: 300px;
+}
+
+.main .text {
+	margin-top: 50px;
+}
+
+.main .download {
+	position: relative;
+	text-decoration: none;
+	font-weight: normal;
+	color: #F7F7F7;
+	display: block;
+	background-color: #48A852;
+	font-size: 14pt;
+	width: 200px;
+	height: 60px;
+	box-sizing: border-box;
+	text-align: center;
+	padding-top: 6px;
+	margin-top: 50px;
+	border: none;
+	transition: background-color .3s ease;
+}
+
+.main .download:hover {
+	background-color: #46D464;
+	color: #fff;
+}
+
+.main .download:active {
+	top: 3px;
+}
+
+.main .download img {
+	margin-left: 10px;
+}
+
+.get-apk {
+	display: inline-block;
+	margin-top: 20px;
+}
+
+.main .screens img {
+	-ms-box-shadow: 0 0 15px #999;
+	-moz-box-shadow: 0 0 15px #999;
+	-webkit-box-shadow: 0 0 15px #999;
+	box-shadow: 0 0 15px #999;
+}
+
+
+/* Comments */
+
+.comments {
+	padding-bottom: 40px;
+}
+
+
+/* Media-Queries */
+
+@media screen and (max-width: 1080px) {
+	.main {
+		width: 700px;
+	}
+
+	.main .logo img {
+		max-width: 200px;
+	}
+
+	.screens {
+		padding-top: 0;
+	}
+
+	.screens img {
+		width: 170px;
+		margin-left: 20px;
+	}	
+}
+
+@media screen and (max-width: 768px) {
+	.main {
+		width: 80%;
+		padding: 30px 0;
+	}
+
+	.main .logo {
+		text-align: center;
+	}
+
+	.main .logo img {
+		max-width: 240px;
+	}
+
+	.main .overview, .main .screens {
+		float: none;
+		width: 100%;
+	}
+
+	.main .screens {
+		margin-top: 50px;
+		text-align: center;
+	}
+
+	.main .download {
+		margin: 0 auto;
+		margin-top: 40px;
+	}
+
+	.get-apk {
+		text-align: center;
+		position: relative;
+		margin-left: 50%;
+		left: -110px;
+	}
+
+	.screens img {
+		width: 220px;
+		float: none;
+		margin-bottom: 20px;
+	}	
+}
