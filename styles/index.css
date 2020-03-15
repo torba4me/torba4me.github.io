@@ -107,11 +107,15 @@ body {
 .footer {
 	clear: both;
 	text-align: center;
-	padding-top: 40px;
+	padding-top: 30px;
 	box-sizing: border-box;
 	color: #868686;
 }
 
+.privacy {
+	display: inline-block;
+	margin-top: 8px;
+}
 
 /* Styling of main block elements */
 
