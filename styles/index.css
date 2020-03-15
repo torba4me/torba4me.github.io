@@ -117,6 +117,11 @@ body {
 	margin-top: 8px;
 }
 
+.privacy a {
+	font-weight: normal;
+}
+
+
 /* Styling of main block elements */
 
 .main {
