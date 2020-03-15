@@ -206,6 +206,7 @@ body {
 	.screens img {
 		width: 170px;
 		margin-left: 20px;
+		margin-top: 50px;
 	}	
 }
 
@@ -239,10 +240,9 @@ body {
 	}
 
 	.get-apk {
+		display: block;
 		text-align: center;
-		position: relative;
-		margin-left: 50%;
-		left: -110px;
+		margin: 20px auto;
 	}
 
 	.screens img {
