@@ -2,5 +2,6 @@
     "versionCode": 4,
     "versionName": "1.3",
     "description": "Приложение стало стабильнее, добавлены новые функции",
-    "url": "https://github.com/torba4me/torba4me.github.io/blob/master/download/torba_1.1.apk"
+    "urlApk": "https://github.com/torba4me/torba4me.github.io/blob/master/download/torba_1.1.apk",
+    "urlMarket": "https://play.google.com/store/apps/details?id=com.pragmaticdreams.torba"
 }
