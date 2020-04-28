@@ -1,7 +1,7 @@
 {
-    "versionCode": 5,
-    "versionName": "1.4",
-    "description": "Приложение стало быстрее за счёт кэширования и оптимизации.\nТеперь внешние ссылки на рутрекер можно открывать прямо в Torba!",
-    "url": "https://github.com/torba4me/torba4me.github.io/raw/master/download/torba_1.4.apk",
-    "size": "3.4mb"
+    "versionCode": 6,
+    "versionName": "1.5",
+    "description": "- Теперь вы можете добавлять понравившиеся раздачи в избранное!\n\n- Кроме того, был переработан дизайн приложения с учётом удобной и стильной навигации при помощи табов",
+    "url": "https://github.com/torba4me/torba4me.github.io/raw/master/download/torba_1.5.apk",
+    "size": "3.8mb"
 }
