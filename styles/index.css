@@ -75,6 +75,13 @@ body {
 	overflow: hidden;
 }
 
+/* Welcome text */
+.welcome-text {
+	color: #acacac;
+	font-weight: lighter;
+	margin-top: 50px;
+	margin-bottom: -20px;
+}
 
 
 /* Layout of main block */
