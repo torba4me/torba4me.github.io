@@ -1,7 +1,7 @@
 {
-    "versionCode": 8,
-    "versionName": "1.7",
-    "description": "- Рад представить вам возможность поиска раздач, не покидая приложения!\n\n- Также добавлена функция быстрого просмотра описания темы и меню опций. Теперь основные действия доступны прямо из списка раздач!",
-    "url": "https://github.com/torba4me/torba4me.github.io/raw/master/download/torba_1.7.apk",
-    "size": "3.95mb"
+    "versionCode": 9,
+    "versionName": "1.8",
+    "description": "- Встречайте новую тёмную тему! Вы можете найти соответсующий переключатель в настройках внешнего вида.\n\n- Устранен баг с ошибкой скачивания торрент-файлов на Android 10",
+    "url": "https://github.com/torba4me/torba4me.github.io/raw/master/download/torba_1.8.apk",
+    "size": "4.4mb"
 }
