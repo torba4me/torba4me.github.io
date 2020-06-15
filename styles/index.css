@@ -187,6 +187,12 @@ body {
 	box-shadow: 0 0 15px #999;
 }
 
+.warning {
+	background: #ffff9b;
+	font-size: 14px;
+	border: 1px dashed grey;
+	padding: 10px;
+}
 
 /* Comments */
 
