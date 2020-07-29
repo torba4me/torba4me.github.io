@@ -1,7 +1,7 @@
 {
-    "versionCode": 10,
-    "versionName": "1.9",
-    "description": "- Добавлена возможность сортировки раздач в поиске по сидам/личам/размеру и т.д.\n\nВНИМАНИЕ: Если вы владалец Android 10, то скачать по зелёной кнопке ниже не получится из-за ошибки. Но вы можете обновиться вручную, скачав APK с сайта (О приложении -> Наш сайт)",
-    "url": "https://github.com/torba4me/torba4me.github.io/raw/master/download/torba_1.9.apk",
+    "versionCode": 11,
+    "versionName": "1.9.1",
+    "description": "- Восстановлена работа приложения после сбоя в предыдущей версии\n\n",
+    "url": "https://github.com/torba4me/torba4me.github.io/raw/master/download/torba_1.9.1.apk",
     "size": "4.4mb"
 }
