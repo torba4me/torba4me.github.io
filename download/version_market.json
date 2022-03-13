@@ -1,6 +1,7 @@
 {
-    "versionCode": 16,
-    "versionName": "2.4",
-    "description": "Это обновление - большая работа над ошибками. Что нового?\n\n - Исправлена работа на android kitkat \n - Устранены проблемы с соединением на android 7 и ниже\n - Убрана реклама\n - Добавлена возможности вставки ссылки активации из письма (если не подхватывается автоматом)\n - И множество мелких исправлений",    "url": "https://play.google.com/store/apps/details?id=com.pragmaticdreams.torba",
+    "versionCode": 17,
+    "versionName": "2.4.1",
+    "description": "Hotfix-исправление:\n\n - Исправлен краш на Android 12\n - Добавлен ярлык на Android TV",
+    "url": "https://play.google.com/store/apps/details?id=com.pragmaticdreams.torba",
     "size": "21 mb"
 }
