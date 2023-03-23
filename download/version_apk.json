@@ -1,7 +1,7 @@
 {
-    "versionCode": 18,
-    "versionName": "2.4.2",
-    "description": "Hotfix:\n\n - устранён баг с ошибками в процессе загрузки страницы раздачи, что приводило к проблемам при скачивании .torrent-файлов и добавление раздачи в избранное",
-    "url": "https://github.com/torba4me/torba4me.github.io/raw/master/download/torba_2.4.2.apk",
+    "versionCode": 19,
+    "versionName": "2.5.0",
+    "description": "Устранен баг с ошибкой подключения.\n\nПо-умолчанию, всё должно работать с \"Авто\" подключением в настройках. Если используете VPN, то выставляйте \"Прямое подключение\"",
+    "url": "https://github.com/torba4me/torba4me.github.io/raw/master/download/torba_2.5.0.apk",
     "size": "21 mb"
 }
