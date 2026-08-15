@@ -1,7 +1,7 @@
 {
-    "versionCode": 20,
-    "versionName": "2.5.1",
-    "description": "Устранена ошибка с застреванием загрузки страницы раздачи.\n\nПочинена загрузка капчи\n\nУдалена реклама и TOR.\n\nПри шаринге torrent-файла также записывается название раздачи и ссылка.",
-    "url": "https://github.com/torba4me/torba4me.github.io/raw/master/download/torba_2.5.1.apk",
+    "versionCode": 21,
+    "versionName": "2.5.2",
+    "description": "Hotfix: добавлен механизм обхода капчи Cloudflare",
+    "url": "https://github.com/torba4me/torba4me.github.io/raw/master/download/torba_2.5.2.apk",
     "size": "8 mb"
 }
