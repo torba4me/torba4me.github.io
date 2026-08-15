@@ -194,6 +194,11 @@ body {
 	padding: 10px;
 }
 
+.info {
+	font-size: 14px;
+	font-style: italic;
+}
+
 /* Comments */
 
 .comments {
